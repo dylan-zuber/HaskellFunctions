@@ -1,0 +1,2 @@
+# HaskellFunctions
+Simple Haskell functions
